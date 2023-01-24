@@ -152,10 +152,11 @@ Esta fórmula establece que La corriente instantánea en el capacitor es igual a
 
 # CAPITULO 11 : -Ejercicios pares
 
-
+![CAP11](https://user-images.githubusercontent.com/117534483/214360399-f5a0bf11-9afb-4802-a07a-1f7d5edd1f1a.jpg)
 
 # CAPITULO 12 : -Ejercicios pares
 
+![CAP12](https://user-images.githubusercontent.com/117534483/214360409-da2d5b38-ef64-47ad-996f-7e06c0ff834f.jpg)
 
 # 4.VIDEO
 
@@ -163,7 +164,35 @@ Esta fórmula establece que La corriente instantánea en el capacitor es igual a
 
 # 5.CONCLUSIONES
 
--
+-La onda seno es una forma de onda periódica variable con el tiempo.
+
+-La corriente alterna cambia de dirección en respuesta a cambios de la polaridad del voltaje de fuente.
+
+-Un ciclo de una onda seno alterna consta de alternación positiva y alternación negativa.
+
+-Dos fuentes comunes de ondas seno son el generador de ca electromagnético y el circuito oscilador electrónico.
+
+-Un ciclo completo de una onda seno es de 360° o 2p radianes, un medio ciclo es de 180° o p radianes. Un cuarto de ciclo es de 90° o p/2 radianes.
+
+-Un voltaje sinusoidal puede ser generado por un conductor que gira en un campo magnético.
+
+-El ángulo de fase es la diferencia en grados o radianes entre una onda seno dada y una onda seno de referencia.
+
+-Un capacitor está compuesto por dos placas conductoras en paralelo separadas por un material aislante llamado dieléctrico.
+
+-Un capacitor guarda energía en el campo eléctrico presente entre las placas.
+
+-Un farad es la cantidad de capacitancia cuando se guarda un coulomb de carga con un volt entre las placas.
+
+-La capacitancia es directamente proporcional al área de placas e inversamente proporcional a la separación entre placas.
+
+-La constante dieléctrica es una indicación de la capacidad de un material para establecer un campo eléctrico.
+
+-La resistencia dieléctrica es un factor que determina el voltaje de ruptura de un capacitor.
+
+-Un capacitor bloquea la cd constante.
+
+-La constante de tiempo para un circuito RC dispuesto en serie es la resistencia multiplicada por la capacitancia.
 
 
 # 6.BIBLIOGRAFÍA
