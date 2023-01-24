@@ -24,9 +24,10 @@ El informe realizado a continuación está evaluado y especificado para la compr
  
 # 2.MARCO TEÓRICO
 
-* CAPITULO 11
+*  CAPITULO 11:
 
-LA FORMA DE ONDA SINUSOIDAL: La forma de onda sinusoidal u onda seno es el tipo fundamental de corriente alterna (ca) y voltaje alterno. También se conoce como onda sinusoidal o, simplemente, sinusoide. El servicio eléctrico provisto por la compañía de electricidad es en la forma de voltaje y corriente sinusoidales. Además, otros tipos de formas de onda repetitivas se componen de muchas ondas seno individuales llamadas armónicas.
+LA FORMA DE ONDA SINUSOIDAL
+La forma de onda sinusoidal u onda seno es el tipo fundamental de corriente alterna (ca) y voltaje alterno. También se conoce como onda sinusoidal o, simplemente, sinusoide. El servicio eléctrico provisto por la compañía de electricidad es en la forma de voltaje y corriente sinusoidales. Además, otros tipos de formas de onda repetitivas se componen de muchas ondas seno individuales llamadas armónicas.
 
 PERIODO DE UNA ONDA SENO: Una onda seno varía con el tiempo (t) de una manera que es definible. El tiempo requerido para que una onda seno complete todo un ciclo se llama periodo (T)
 
@@ -76,8 +77,75 @@ Formas de onda pulsantes: De modo básico, un pulso puede ser descrito como una 
 
 EL OSCILOSCOPIO: El osciloscopio es un instrumento de prueba ampliamente utilizado y muy versátil para observar y medir formas de onda. El osciloscopio es básicamente un dispositivo de visualización que traza, en su pantalla, una gráfica de una señal eléctrica medida. En la mayoría de las aplicaciones, la gráfica muestra cómo cambian las señales con el tiempo. El eje vertical de la pantalla de visualización representa voltaje, y el eje horizontal representa tiempo. Se puede medir la amplitud, el periodo y la frecuencia de una señal por medio de un osciloscopio. Además, se puede determinar el ancho de pulso, el ciclo de trabajo, el tiempo de subida y el tiempo de caída de una forma de onda pulsante. La mayoría de los osciloscopios son capaces de mostrar en pantalla por lo menos dos señales a la vez, lo cual permite observar su relación de tiempo.
 
+![1](https://user-images.githubusercontent.com/117534483/214354061-5067939d-c94e-43c2-adba-becd6081002c.png)
 
--  CAPITULO 12 : 
+![2](https://user-images.githubusercontent.com/117534483/214354086-e29ec1a5-13f9-4c86-b1e3-87ee06d5ce67.png)
+
+![3](https://user-images.githubusercontent.com/117534483/214354107-d2cf9cee-5355-43fb-b79a-f9fc41468c11.png)
+
+![4](https://user-images.githubusercontent.com/117534483/214354118-b2a60254-10d9-4a2a-9357-2136e7107d00.png)
+
+![5](https://user-images.githubusercontent.com/117534483/214354131-125fe24b-a6ea-467f-bde1-e94471cc28c9.png)
+
+![6](https://user-images.githubusercontent.com/117534483/214354140-ec076720-3dc1-4e41-9cfc-46d6c7dc6277.png)
+
+![7](https://user-images.githubusercontent.com/117534483/214354155-56fb83ee-b045-41da-abf3-19fd881ebb62.png)
+
+*  CAPITULO 12 : 
+
+EL CAPACITOR BÁSICO
+
+Un capacitor es un componente eléctrico pasivo que guarda energía eléctrica y tiene la propiedad de capacitancia.
+
+Construcción básica: En su más simple forma, un capacitor es un dispositivo eléctrico que guarda energía eléctrica y se construye con dos placas conductoras paralelas separadas por un material aislante llamado dieléctrico. Los conectores están unidos a las placas paralelas.
+
+Capacitancia: La cantidad de carga que un capacitor puede almacenar por unidad de voltaje entre sus placas es su capacitancia, designada mediante C. Es decir, la capacitancia es una medida de la capacidad de un capacitor de guardar carga. Mientras más carga por unidad de voltaje puede guardar un capacitor, más grande es su capacidad, como lo expresa la fórmula siguiente: C = Q/V. Donde C es capacitancia, Q es carga, y V es voltaje.
+
+La unidad de capacitancia El farad (F) es la unidad básica de capacitancia. Recuerde que el coulomb (C) es la unidad de carga eléctrica. Un farad es la cantidad de capacitancia cuando se guarda un coulomb (C) de carga con un volt entre las placas. La mayoría de los capacitores que se utilizan en trabajos de electrónica tienen valores de capacitancia especificados en microfarads (mF) y picofarads (pF).
+
+TIPOS DE CAPACITORES: Los capacitores se clasifican normalmente de acuerdo con el tipo de material dieléctrico y si están o no polarizados. Los tipos más comunes de materiales dieléctricos son mica, cerámica, película plástica, y electrolíticos (óxido de aluminio y óxido de tantalio).
+
+Capacitores fijos: Capacitores de mica: Dos tipos de capacitores de mica son los de laminillas y hojas de mica plateada. Las laminillas metálicas forman la placa, con las laminillas alternas conectadas entre sí para incrementar el área de placas. Se utilizan más capas para incrementar el área de placas, y por tanto, se incrementa la capacitancia. El apilamiento de hojas de mica/laminillas se encapsula en un material aislante.
+
+Capacitores de cerámica: Los dieléctricos de cerámica proporcionan constantes dieléctricas muy altas (1200 es un valor típico). Por consiguiente, se pueden alcanzar valores de capacitancia comparativamente altos en un tamaño físico pequeño. Los capacitores de cerámica están disponibles comúnmente en forma de disco.
+
+CAPACITORES EN SERIE: La capacitancia total de una conexión en serie de capacitores es menor que la capacitancia individual de cualquiera de los capacitores. Los capacitores dispuestos en serie dividen el voltaje que hay entre las terminales de cada uno ellos en proporción a su capacitancia.
+
+Capacitancia total Cuando se conectan capacitores en serie, la capacitancia total es menor que el valor de la capacitancia más pequeña porque la separación efectiva entre las placas se incrementa. El cálculo de capacitancia total en serie es análogo al de resistencia total de resistores dispuestos en paralelo (Capítulo 6).
+
+Cuando el interruptor se cierra, los capacitores se cargan a medida que se establece la corriente a través del circuito. Dado que tenemos un circuito en serie, la corriente debe ser la misma en todos los puntos, como se ilustra. Como la corriente es la velocidad de flujo de la carga, la cantidad de carga guardada por cada capacitor es igual a la carga total, expresada como: QT = Q1 = Q2 = Q3 = ... = Qn
+
+Dos capacitores en serie Cuando sólo dos capacitores están en serie, se utiliza una forma especial de la ecuación: CT= 1/(1/C1)+(1/C2)
+
+CAPACITORES EN PARALELO: Las capacitancias se suman cuando los capacitores están conectados en paralelo.
+
+Cuando se conectan capacitores en paralelo, la capacitancia total es la suma de las capacitancias individuales porque el área de las placas se incrementa. El cálculo de la capacitancia total en paralelo es análogo al de la resistencia total en serie (Capítulo 5).
+
+La corriente de carga total que viene de la fuente se divide en la unión de las ramas en paralelo. Existe una corriente de carga diferente a través de cada rama, de modo que cada capacitor puede guardar distinta carga. Según la ley de la corriente de Kirchhoff, la suma de todas las corrientes de carga es igual a la corriente total. Por consiguiente, la suma de las cargas guardadas en los capacitores es igual a la carga total. Además, los voltajes entre todas las ramas en paralelo son iguales. Se utilizan estas observaciones para desarrollar, como vemos a continuación, una fórmula con qué calcular la capacitancia total en paralelo en el caso general de n capacitores dispuestos en paralelo: QT = Q1 + Q2 + Q3 + ... + Qn
+
+CAPACITORES EN CIRCUITOS DE CD: Un capacitor se carga cuando se conecta a una fuente de voltaje de cd. La acumulación de carga entre las placas ocurre de una manera predecible ya que depende de la capacitancia y la resistencia presentes en un circuito.
+
+Conforme la placa A pierde electrones y la placa B los gana, la placa A se vuelve positiva con respecto a la placa B. A medida que este proceso de carga continúa, el voltaje entre las placas se acumula con rapidez hasta que es igual al voltaje aplicado, VS, pero de polaridad opuesta, como se muestra en la parte (c). Cuando el capacitor está totalmente cargado, no hay corriente. Un capacitor bloquea la corriente directa constante.
+
+CAPACITORES EN CIRCUITOS DE CA: Como se sabe, un capacitor bloquea la corriente directa. Un capacitor deja pasar la corriente alterna pero con cierta cantidad de oposición, llamada reactancia capacitiva, que depende de la frecuencia de la corriente alterna.
+
+Para explicar a cabalidad cómo funcionan los capacitores en un circuito de ca, se debe introducir el concepto de derivada. La derivada de una cantidad que varía con el tiempo es la razón de cambio instantánea de dicha cantidad. Recordemos que la corriente es la velocidad de flujo de la carga (electrones). Por consiguiente, la corriente instantánea, i, se expresa como la razón de cambio instantánea de la carga, q, con respecto al tiempo, t.
+
+i = dq/dt
+
+El término dq/dt es la derivada de q con respecto al tiempo y representa la razón de cambio instantánea de q. Asimismo, en función de cantidades instantáneas, q Cv. Por consiguiente, de acuerdo con una regla básica del cálculo diferencial, la derivada de q con respecto al tiempo es dq/dt C(dv/dt). Como i dq/dt, se obtiene la siguiente relación:
+
+i = C*(dv/dt)
+
+Esta fórmula establece que La corriente instantánea en el capacitor es igual a la capacitancia multiplicada por la razón de cambio instantánea del voltaje presente entre las terminales del capacitor. Mientras más rápido cambia el voltaje entre las terminales de un capacitor, mayor es la corriente.
+
+![8](https://user-images.githubusercontent.com/117534483/214354419-33170ec2-c273-41aa-8de2-a56e5a593897.png)
+
+![9](https://user-images.githubusercontent.com/117534483/214354428-92ac8c5e-89ee-4e1e-af1f-e2b327397725.png)
+
+![10](https://user-images.githubusercontent.com/117534483/214354429-3185870b-1310-448d-8137-93917eb96f80.png)
+
+![11](https://user-images.githubusercontent.com/117534483/214354434-db38258a-8e58-466c-a4f2-9b2a1b81d5de.png)
 
 
 # 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
