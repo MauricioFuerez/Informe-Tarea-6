@@ -160,7 +160,7 @@ Esta fórmula establece que La corriente instantánea en el capacitor es igual a
 
 # 4.VIDEO
 
--
+-  https://youtu.be/YH4DPH9pjvM
 
 # 5.CONCLUSIONES
 
